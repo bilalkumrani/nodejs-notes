@@ -1,0 +1,22 @@
+{
+"id": "1",
+"name": "Bilal",
+"Username": "Breet",
+"Email": "bilal@gmail.com",
+"address": {
+    "street":"gol masjid",
+    "city":"sukkur",
+    "zipcode":"23423432",
+    "geo":{
+        "lat":"435345",
+        "lng":"82.24234"
+    }
+},
+"phone":"424234234",
+"website":"khadhajk.com",
+"company": {
+    "name": "RomeaGera Caorona",
+    "catchphrase": "multiLayered client server architecture",
+    "bs":"harness real time marketing"
+}
+}
