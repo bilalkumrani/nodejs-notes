@@ -14,4 +14,5 @@
 // data: This event is fired when there is data availbale to read.
 // end: This event is fired when there is no more data available to read.
 // error: This event is fired when there is an error in sending or recieving data.
-// finish: Thid event is fired when all the data haa been flushed
+// finish: Thid event is fired when all the data haa been flushed.
+
